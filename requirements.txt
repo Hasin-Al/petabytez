@@ -1,0 +1,5 @@
+Flask
+torch==2.5.1 
+transformers
+gspread
+google-auth
